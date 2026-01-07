@@ -1,4 +1,0 @@
-#pragma once
-
-// Vial 用の UID（仮でOK、後で vial.json の UID に合わせればいい）
-#define VIAL_KEYBOARD_UID { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 }
